@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on census related research
 - 📫 How to reach me tom.macintyre@gov.scot
 - 😄 Pronouns: ...
-- ⚡ Fun fact: retired senior lecturer in mathemtatics education
+- ⚡ Fun fact: retired senior lecturer in mathematics education
 
 <!---
 U443960/U443960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
